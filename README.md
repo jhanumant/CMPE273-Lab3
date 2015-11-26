@@ -46,6 +46,18 @@ Enter a choice(1-7) to perform the realted actions.
 7. Remove a node temporarily (to know how a consistent hashing actually works).  
  ----After this step please execute steps 6/5 to see the re-mapping of nodes.  
 ```
+Example PUT input:  
+{Key => Value}  
+1 => a  
+2 => b  
+3 => c  
+4 => d  
+5 => e  
+6 => f  
+7 => g  
+8 => h  
+9 => i  
+10 => j  
 ####Comments
 Run the Server.go file first using "go run Server.go" (without double quotes) and in separate command prompt run the Client.go using "go run Client.go"  
 There are three server instances(http://localhost:3000,http://localhost:3001,http://localhost:3002).  
