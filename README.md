@@ -18,6 +18,7 @@ Start the  server:
 ```
 go run Server.go
 ```
+The above statement creates three server instances on ports(3000,3001,3002)
 ####Execute the Client
 Run the client:
 ```
