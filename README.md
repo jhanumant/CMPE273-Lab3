@@ -57,7 +57,8 @@ curl http://localhost:3000/keys
 ```
 ```
 Response:
-[{"key":1,"value":"a"},{"key":1,"value":"a"},{"key":3,"value":"c"},{"key":4,"value":"d"},{"key":5,"value":"e"},{"key":7,"value":"g"},{"key":9,"value":"i"},{"key":10,"value":"j"}]
+[{"key":1,"value":"a"},{"key":3,"value":"c"},{"key":4,"value":"d"},{"key":5,"value":"e"},{"key":7,"value":"g"},{"key":9,"value":"i"},{"key":10,"value":"j"}]
 ```  
 Similarly, requests can be place for remaining ports i.e. 3001 & 3002.  
+Two Keys can be same. 
 ####Refer to OutputImages folder to understand complete execution of the program.
